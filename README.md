@@ -25,5 +25,5 @@ To understand Git and GitHub practically, maintain organized notes, and develop 
 **Learn → Understand → Practice → Apply**
 
 --------------------------------------------------------------------------------------------------------
-
 ⭐ If these notes help you, consider starring this repository!
+--------------------------------------------------------------------------------------------------------
